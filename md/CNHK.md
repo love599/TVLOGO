@@ -2,7 +2,7 @@
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |凤凰中文台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视中文台.png">|凤凰资讯台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视资讯台.png">|
-|凤凰香港台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视香港台.png">|凤凰电影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视电视台.png">|
+|凤凰香港台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视香港台.png">|凤凰电影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视电影台.png">|
 |翡翠台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/翡翠台.png">|明珠台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/明珠台.png">|
 |J2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/J2.png">|无线新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线新闻台.png">|
 |无线财经资讯台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线财经资讯台.png">|无线星河台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线星河台.png">|
@@ -10,9 +10,9 @@
 |无线综艺台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线综艺台.png">|无线为食台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线为食台.png">|
 |无线日剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线日剧台.png">|无线粤语片台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线粤语片台.png">|
 |无线华语剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线华语剧台.png">|MytvSuper|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/MytvSuper.png">|
-|功夫台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/功夫台.png">|Hands UP|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/TVB16.png">|
+|功夫台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/功夫台.png">|Hands UP|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/HandsUP.png">|
 |有线新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线新闻台.png">|有线财经资讯台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线财经资讯台.png">|
-|有线新闻直播台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线新闻直播台.png">|有线娱乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/线娱乐台.png">|
+|有线新闻直播台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线新闻直播台.png">|有线娱乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线娱乐台.png">|
 |有线电影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线电影台.png">|有线HD603|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线HD603.png">|
 |有线体育台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线体育台.png">|有线Sports Plus 1|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线SPORTSPLUS1.png">|
 |有线Sports Plus 2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线SPORTSPLUS2.png">|有线Sports Plus 3|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线SPORTSPLUS2.png">|
