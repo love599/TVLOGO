@@ -5,17 +5,17 @@
 > 
 【[CCTV](./md/CCTV.md)】  【[中国教育电视台/新华社/中央新影](./md/CET.md)】
 
-【[全国卫视](./md/CN.md)】  【[港澳地区](./md/CNHK.md)】  【[台湾地区一](./md/CNTW01.md)】  【[台湾地区二](./md/CNTW02.md)】  【[台湾地区三](./md/CNTW03.md)】
+【[全国卫视](./md/卫视.md)】  【[港澳地区](./md/CNHK.md)】  【[台湾地区一](./md/CNTW01.md)】  【[台湾地区二](./md/CNTW02.md)】  【[台湾地区三](./md/CNTW03.md)】
 
 【[数字频道](./md/DIG.md)】  【[DOX系列](./md/DOX.md)】  【[iHOT系列](./md/IHOT.md)】  【[NewTV系列](./md/NEW.md)】  【[CIBN系列](./md/CIBN.md)】
 
-【[山东](./md/SD.md)】  【[江苏](./md/JS.md)】  【[安徽](./md/AH.md)】  【[浙江](./md/ZJ.md)】  【[福建](./md/FJ.md)】  【[上海](./md/SH.md)】
+【[山东](./md/SD.md)】  【[江苏](./md/JS.md)】  【[安徽](./md/安徽.md)】  【[浙江](./md/ZJ.md)】  【[福建](./md/FJ.md)】  【[上海](./md/SH.md)】
 
 【[广东](./md/GD.md)】  【[广西](./md/GX.md)】  【[海南](./md/HIN.md)】
 
 【[湖南](./md/HUN.md)】  【[湖北](./md/HUB.md)】  【[河南](./md/HEN.md)】  【[江西](./md/JX.md)】
 
-【[北京](./md/BJ.md)】  【[天津](./md/TJ.md)】  【[河北](./md/HEB.md)】  【[山西](./md/SX.md)】  【[内蒙古](./md/NM.md)】
+【[北京](./md/北京.md)】  【[天津](./md/TJ.md)】  【[河北](./md/HEB.md)】  【[山西](./md/SX.md)】  【[内蒙古](./md/NM.md)】
 
 【[宁夏](./md/NX.md)】  【[新疆](./md/XJ.md)】  【[青海](./md/QH.md)】  【[陕西](./md/SAX.md)】  【[甘肃](./md/GS.md)】
 
