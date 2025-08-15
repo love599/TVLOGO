@@ -25,7 +25,7 @@
 |寰宇财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/寰宇财经台.png">|台视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/台视.png">|
 |台视综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/台视综合台.png">|台视新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/台视新闻台.png">|
 |台视财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/台视财经台.png">|华视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华视.png">|
-|华视新闻资讯|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华视新闻资讯.png">|华视教育文化|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华视教育文化.png">|
+|华视新闻|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华视新闻.png">|华视教育文化|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华视教育文化.png">|
 |公视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/公视.png">|公视台语台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/公视台语台.png">|
 |公视3台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/公视3台.png">|公视戏剧|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/公视戏剧.png">|
 |大爱-1|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/大爱-1.png">|大爱-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/大爱-2.png">|
