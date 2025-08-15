@@ -21,5 +21,5 @@
 |CCTV文化精品|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/文化精品.png">|CCTV发现之旅|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/发现之旅.png">|
 |CCTV老故事|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/老故事.png">|CCTV中学生|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中学生.png">|
 |CGTN|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN.png">|CGTN纪录|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN纪录.png">|
-|CGTN阿语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN阿语.png">|CGTN俄语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CCTV/CGTN俄语.png">|
+|CGTN阿语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN阿语.png">|CGTN俄语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN俄语.png">|
 |CGTN法语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN法语.png">|CGTN西语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN西语.png">|
