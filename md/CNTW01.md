@@ -37,7 +37,7 @@
 |龙华动画|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/龙华动画.png">|龙华卡通|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/龙华卡通.png">|
 |八大综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/八大综合台.png">|八大第一台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/八大第一台.png">|
 |八大娱乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/八大娱乐台.png">|八大戏剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/八大戏剧台.png">|
-|八大精彩台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/GTV5.png">|八大优频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/八大优频道.png">|
+|八大精彩台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/八大精彩台.png">|八大优频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/八大优频道.png">|
 |博斯运动-1|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯运动-1.png">|博斯运动-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯运动-2.png">|
 |博斯高球|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯高球.png">|博斯高球-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯高球-2.png">|
 |博斯网球|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯网球.png">|博斯魅力|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯魅力.png">|
