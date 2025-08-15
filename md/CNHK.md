@@ -23,10 +23,10 @@
 |Now直播台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW直播台.png">|爆谷台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW爆谷台.png">|
 |星影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW星影台.png">|Now剧集台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW剧集台.png">|
 |Now华剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW华剧台.png">|香港国际财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/香港国际财经台.png">|
-|香港开电视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/香港开电视.png">|私人影院|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/私人影院.png">|
+|香港开电视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/香港开电视.png">|私人影院|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/私人影院.png">|
 |香港卫视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/香港卫视.png">|星空卫视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/星空卫视.png">|
 |阳光卫视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/阳光卫视.png">|亚洲电视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/亚洲电视台.png">|
-|澳视澳门台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/A澳视澳门台.png">|澳视葡文台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳视葡文台.png">|
+|澳视澳门台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳视澳门台.png">|澳视葡文台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳视葡文台.png">|
 |澳视体育台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳视体育台.png">|澳视资讯台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳视资讯台.png">|
 |澳视综艺台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳视综艺台.png">|澳视Macau|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳视Macau.png">|
 |澳门莲花卫视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/澳门莲花卫视.png">|亚旅卫视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/亚旅卫视.png">|
