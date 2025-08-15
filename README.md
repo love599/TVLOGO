@@ -3,11 +3,11 @@
 
 > 中国
 > 
-【[央视](./md/CCTV.md)】  【[中国教育电视台/新华社/中央新影](./md/CET.md)】
+【[央视](./md/CCTV.md)】  【[卫视](./md/卫视.md)】   【[数字频道](./md/DIG.md)】
 
-【[全国卫视](./md/卫视.md)】  【[港澳地区](./md/CNHK.md)】  【[台湾地区一](./md/CNTW01.md)】  【[台湾地区二](./md/CNTW02.md)】  【[台湾地区三](./md/CNTW03.md)】
+  【[港澳地区](./md/CNHK.md)】  【[台湾地区一](./md/CNTW01.md)】  【[台湾地区二](./md/CNTW02.md)】  【[台湾地区三](./md/CNTW03.md)】
 
-【[数字频道](./md/DIG.md)】  【[DOX系列](./md/DOX.md)】  【[iHOT系列](./md/IHOT.md)】  【[NewTV系列](./md/NEW.md)】  【[CIBN系列](./md/CIBN.md)】
+  【[DOX系列](./md/DOX.md)】  【[iHOT系列](./md/IHOT.md)】  【[NewTV系列](./md/NEW.md)】  【[CIBN系列](./md/CIBN.md)】
 
 【[山东](./md/SD.md)】  【[江苏](./md/JS.md)】  【[安徽](./md/安徽.md)】  【[浙江](./md/ZJ.md)】  【[福建](./md/FJ.md)】  【[上海](./md/SH.md)】
 
