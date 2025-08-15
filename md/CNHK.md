@@ -10,7 +10,7 @@
 |无线综艺台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线综艺台.png">|无线为食台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线为食台.png">|
 |无线日剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线日剧台.png">|无线粤语片台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线粤语片台.png">|
 |无线华语剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线华语剧台.png">|MytvSuper|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/MytvSuper.png">|
-|功夫台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/功夫台.png">|Hands UP|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/HandsUP.png">|
+|功夫台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/功夫台.png">|Hands UP|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/Handsup.png">|
 |有线新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线新闻台.png">|有线财经资讯台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线财经资讯台.png">|
 |有线新闻直播台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线新闻直播台.png">|有线娱乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线娱乐台.png">|
 |有线电影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线电影台.png">|有线HD603|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线HD603.png">|
@@ -21,7 +21,7 @@
 |Viutv|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/viutv.png">|Viutv6|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/viutv6.png">|
 |Now新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW新闻台.png">|Now财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW财经台.png">|
 |Now直播台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW直播台.png">|爆谷台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW爆谷台.png">|
-|星影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/星影台.png">|Now剧集台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW剧集台.png">|
+|星影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW星影台.png">|Now剧集台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW剧集台.png">|
 |Now华剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW华剧台.png">|香港国际财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/香港国际财经台.png">|
 |香港开电视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/香港开电视.png">|私人影院|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/私人影院.png">|
 |香港卫视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/香港卫视.png">|星空卫视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/星空卫视.png">|
