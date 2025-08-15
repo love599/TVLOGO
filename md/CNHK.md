@@ -18,7 +18,7 @@
 |有线Sports Plus 2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线SPORTSPLUS2.png">|有线Sports Plus 3|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线SPORTSPLUS2.png">|
 |有线18台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/有线18台.png">|RTHK 31|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/RTHK31.png">|
 |RTHK 32|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/RTHK32.png">|RTHK 33|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/RTHK33.png">|
-|Viutv|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/viutv.png">|Viutv6|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/viutv6.png">|
+|Viutv|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/Viutv.png">|Viutv6|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/Viutv6.png">|
 |Now新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW新闻台.png">|Now财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW财经台.png">|
 |Now直播台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW直播台.png">|爆谷台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW爆谷台.png">|
 |星影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW星影台.png">|Now剧集台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/NOW剧集台.png">|
