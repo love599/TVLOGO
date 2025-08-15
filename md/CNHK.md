@@ -1,7 +1,7 @@
 # 【港澳地区】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
-|凤凰中文台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰中文卫视台.png">|凤凰资讯台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视资讯台.png">|
+|凤凰中文台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视中文台.png">|凤凰资讯台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视资讯台.png">|
 |凤凰香港台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视香港台.png">|凤凰电影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/凤凰卫视电视台.png">|
 |翡翠台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/翡翠台.png">|明珠台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/明珠台.png">|
 |J2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/J2.png">|无线新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/港澳/无线新闻台.png">|
