@@ -49,7 +49,7 @@
 |非凡商业|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/非凡商业.png">|年代MUCH|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/年代MUCH.png">|
 |年代新闻|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/年代新闻.png">|高点综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/高点综合台.png">|
 |高点育乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/高点育乐台.png">|EYETV戏剧|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/EYETV戏剧.png">|
-|EYETV旅游|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/EYETV旅游.png">|iFun|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/ifun.png">|
+|EYETV旅游|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/EYETV旅游.png">|iFun|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/iFun.png">|
 |iFun动漫台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/iFun动漫台.png">|iFun儿童台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/iFun儿童台.png">|
 |影迷数位电影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/影迷数位电影台.png">|影迷纪实台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/影迷纪实台.png">|
 |momo亲子台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo亲子台.png">|momo综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo综合台.png">|
