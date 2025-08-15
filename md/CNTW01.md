@@ -42,7 +42,7 @@
 |博斯高球|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯高球.png">|博斯高球-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯高球-2.png">|
 |博斯网球|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯网球.png">|博斯魅力|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯魅力.png">|
 |博斯无限|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯无限.png">|博斯无限-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/博斯无限-2.png">|
-|Eleven-1|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Eleven1.png">|Eleven-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Eleven-2.png">|
+|Eleven-1|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Eleven1.png">|Eleven-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Eleven2.png">|
 |Eleven-3|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Eleven3.png">|ElevenPlus|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/ElevenPlus.png">|
 |壹综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/壹综合.png">|壹新闻|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/壹新闻.png">|
 |壹电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/壹电影.png">|非凡新闻|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/非凡新闻.png">|
