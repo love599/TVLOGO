@@ -1,7 +1,7 @@
 # 【中央电视台】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
-|CCTV1综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV1综合.png">|CCTV2财经|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV2财经.png">|
+|CCTV1综合|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CCTV1.png">|CCTV2财经|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CCTV-1.png">|
 |CCTV3综艺|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV3综艺.png">|CCTV4中文国际|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV4中文国际.png">|
 |CCTV5体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV5体育.png">|CCTV6电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV6电影.png">|
 |CCTV7国防军事|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV7国防军事.png">|CCTV8电视剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV8电视剧.png">|
