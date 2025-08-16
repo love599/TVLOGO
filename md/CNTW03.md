@@ -2,7 +2,7 @@
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |MyKids|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Mykids.png">|MY101|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/MY101.png">|
-|梅迪奇艺术频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/梅迪奇艺术频道.png">|MezzoLive|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/mezzolive.png">|
+|梅迪奇艺术频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/梅迪奇艺术频道.png">|MezzoLive|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Mezzolive.png">|
 |电影原声台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/电影原声台.png">|古典音乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/古典音乐台.png">|
 |SBN全球财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/SBN全球财经台.png">|EFTV运通财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/EFTV运通财经台.png">|
 |Z频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Z频道.png">|滚动力rollor|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/滚动力rollor.png">|
