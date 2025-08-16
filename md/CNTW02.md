@@ -1,6 +1,6 @@
 # 【台湾频道二】台标PNG文件
 |频道名|台标图片|频道名|台标图片|频道名|台标图片|
-|:---|:---:|:---|:---:|
+|:---|:---:|:---|:---:|:---|:---:|
 |艾尔达综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达综合.png">|艾尔达影剧|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达影剧.png">|
 |艾尔达娱乐|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达娱乐.png">|艾尔达体育-1|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达体育-1.png">|
 |艾尔达体育-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达体育-2.png">|艾尔达体育-3|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达体育-3.png">|
