@@ -54,4 +54,4 @@
 |BBC lifestyle|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBClifestyle.png">|BBC Earth|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBC Earth.png">|
 |History|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/History1.png">|History-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/History2.png">|
 |Disney|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Disney.png">|Disney XD|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Disney1.png">|
-|Disney Junior|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Disney2.png">|Tech Storm|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TechStorm.png">|
+|Disney Junior|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Disney Junior.png">|Tech Storm|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TechStorm.png">|
