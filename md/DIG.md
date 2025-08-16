@@ -47,7 +47,7 @@
 |北京4K超清|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京4K超清.png">|北京淘娱乐|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京淘娱乐.png">|
 |北京淘电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京淘电影.png">|北京淘剧场|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京淘剧场.png">|
 |北京淘Baby|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京淘Baby.png">|北京萌宠TV|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京萌宠TV.png">|
-|北京大健康|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京大健康.png">|哒啵赛事|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/哒啵赛事.png">|
+|北京大健康|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/北京大健康.png">|哒啵电竞|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/哒啵电竞.png">|
 |黑莓电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/黑莓电影.png">|黑莓动画|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/黑莓动画.png">|
 |3D试验频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/3D试验频道.png">|长影频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/长影频道.png">|
 |证券服务|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/证券服务.png">|睛彩竞技|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/睛彩竞技.png">|
