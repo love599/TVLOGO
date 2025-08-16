@@ -1,7 +1,7 @@
 # 【台湾频道一】台标PNG文件
-|频道名|台标图片|频道名|台标图片|
-|:---|:---:|:---|:---:|
-|TVBS|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS.png">|TVBS新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS新闻台.png">|
+|频道名|台标图片|频道名|台标图片|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|:---|:---:|:---|:---:|
+|TVBS|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS.png">|TVBS新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS新闻台.png">|艾尔达综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达综合.png">|艾尔达影剧|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达影剧.png">|
 |TVBS欢乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS欢乐台.png">|TVBS精采台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS精采台.png">|
 |TVBS亚洲台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS亚洲台.png">|东森综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/东森综合.png">|
 |东森超视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/东森超视.png">|东森电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/东森电影.png">|
