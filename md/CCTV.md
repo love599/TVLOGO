@@ -18,15 +18,28 @@
 |CCTV怀旧剧场|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/怀旧剧场.png">|CCTV女性时尚|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/女性时尚.png">|
 |CCTV世界地理|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/世界地理.png">|CCTV卫生健康|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/卫生健康.png">|
 |CCTV央视台球|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/央视台球.png">|CCTV高尔夫网球|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/高尔夫网球.png">|
-|CCTV文化精品|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/文化精品.png">|CCTV发现之旅|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/发现之旅.png">|
+|CCTV文化精品|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/文化精品.png">|
+# 【CGTN】台标PNG文件
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
 |CGTN|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN.png">|CGTN纪录|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN纪录.png">|
 |CGTN阿语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN阿语.png">|CGTN俄语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN俄语.png">|
 |CGTN法语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN法语.png">|CGTN西语|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CGTN西语.png">|
-|CCTV老故事|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中央新影老故事.png">|CCTV中学生|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中央新影中学生.png">|
+# 【中央新影】台标PNG文件
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
+|老故事|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中央新影老故事.png">|CCTV中学生|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中央新影中学生.png">|
 |新科动漫|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中央新影新科动漫.png">|证券资讯|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中央新影证券资讯.png">|
+|发现之旅|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中央新影发现之旅.png">|
+# 【中国教育电视】台标PNG文件
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
 |CETV1|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中国教育1台.png">|CETV2|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中国教育2台.png">|
 |CETV3|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中国教育3台.png">|CETV4|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/中国教育4台.png">|
 |早期教育|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CETV早期教育.png">|
+# 【新华社】台标PNG文件
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
 |CNC中文|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CNC中文.png">|CNC英文|<img src="https://raw.githubusercontent.com/love599/TVLOGO/main/logo/央视/CNC英文.png">|
 
 # 【中央电视台】台标PNG文件（2）
