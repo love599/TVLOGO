@@ -50,8 +50,8 @@
 |Discovery|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Discovery.png">|Discovery亚洲|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Discovery亚洲.png">|
 |Discovery科学|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Discovery科学.png">|国家地理频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/国家地理频道.png">|
 |国家地理野生频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/国家地理野生频道.png">|国家地理悠人频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/国家地理悠人频道.png">|
-|BBC World News|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBC1.png">|BBC Cbeebies|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBC4.png">|
-|BBC lifestyle|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBC3.png">|BBC Earth|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBC2.png">|
+|BBC World News|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBC1.png">|BBC Cbeebies|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBCCbeebies.png">|
+|BBC lifestyle|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBClifestyle.png">|BBC Earth|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BBC Earth.png">|
 |History|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/History1.png">|History-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/History2.png">|
 |Disney|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Disney.png">|Disney XD|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Disney1.png">|
 |Disney Junior|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Disney2.png">|Tech Storm|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TechStorm.png">|
