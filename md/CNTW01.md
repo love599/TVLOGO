@@ -53,5 +53,5 @@
 |iFun动漫台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/iFun动漫台.png">|iFun儿童台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/iFun儿童台.png">|
 |影迷数位电影台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/影迷数位电影台.png">|影迷纪实台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/影迷纪实台.png">|
 |momo亲子台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo亲子台.png">|momo综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo综合台.png">|
-|momo追剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo追剧台.png">|华艺MBC综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾华艺MBC综合台.png">|
+|momo追剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo追剧台.png">|华艺MBC综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华艺MBC综合台.png">|
 |华艺台湾台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华艺台湾台.png">|华艺影剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华艺影剧台.png">|
