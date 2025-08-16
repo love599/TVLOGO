@@ -2,7 +2,7 @@
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |CHC高清电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/CHC高清电影.png">|CHC家庭影院|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/CHC家庭影院.png">|
-|CHC动作电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/CHC动作电影.png">|求索纪录4K|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/求索纪录4K.png">|
+|CHC动作电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/CHC动作电影.png">|CHC影迷电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/CHC影迷电影.png">|
 |求索纪录|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/求索纪录.png">|求索科学|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/求索科学.png">|
 |求索动物|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/求索动物.png">|求索生活|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/求索生活.png">|
 |CBN每日影院|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/CBN每日影院.png">|CBN幸福剧场|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/CBN幸福剧场.png">|
