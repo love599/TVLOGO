@@ -9,7 +9,7 @@
 
 【[DOX系列](./md/DOX.md)】  【[iHOT系列](./md/IHOT.md)】  【[NewTV系列](./md/NEW.md)】  【[CIBN系列](./md/CIBN.md)】
 
-【[北京](./md/北京.md)】  【[天津](./md/TJ.md)】    【[上海](./md/SH.md)】    【[重庆](./md/重庆.md)】
+【[北京](./md/北京.md)】  【[天津](./md/TJ.md)】    【[上海](./md/上海.md)】    【[重庆](./md/重庆.md)】
 
 【[河北](./md/HEB.md)】   【[河南](./md/HEN.md)】  【[山东](./md/SD.md)】  【[山西](./md/SX.md)】
 
