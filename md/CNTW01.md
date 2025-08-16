@@ -1,7 +1,7 @@
 # 【台湾频道一】台标PNG文件
-|频道名|台标图片|频道名|台标图片|频道名|台标图片|
-|:---|:---:|:---|:---:|:---|:---:|
-|TVBS|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS.png">|TVBS新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS新闻台.png">|艾尔达综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达综合.png">|
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
+|TVBS|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS.png">|TVBS新闻台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS新闻台.png">|
 |TVBS欢乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS欢乐台.png">|TVBS精采台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS精采台.png">|
 |TVBS亚洲台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/TVBS亚洲台.png">|东森综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/东森综合.png">|
 |东森超视|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/东森超视.png">|东森电影|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/东森电影.png">|
@@ -55,9 +55,6 @@
 |momo亲子台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo亲子台.png">|momo综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo综合台.png">|
 |momo追剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/momo追剧台.png">|华艺MBC综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华艺MBC综合台.png">|
 |华艺台湾台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华艺台湾台.png">|华艺影剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/华艺影剧台.png">|
-# 【台湾频道二】台标PNG文件
-|频道名|台标图片|频道名|台标图片|
-|:---|:---:|:---|:---:|
 |艾尔达综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达综合.png">|艾尔达影剧|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达影剧.png">|
 |艾尔达娱乐|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达娱乐.png">|艾尔达体育-1|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达体育-1.png">|
 |艾尔达体育-2|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达体育-2.png">|艾尔达体育-3|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/艾尔达体育-3.png">|
@@ -109,9 +106,6 @@
 |台湾综合台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/台湾综合台.png">|天天电视台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/天天电视台.png">|
 |台湾戏剧台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/台湾戏剧台.png">|世新综合|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/世新综合.png">|
 |威达超舜|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/威达超舜.png">|
-# 【台湾频道三】台标PNG文件
-|频道名|台标图片|频道名|台标图片|
-|:---|:---:|:---|:---:|
 |MyKids|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Mykids.png">|MY101|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/MY101.png">|
 |梅迪奇艺术频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/梅迪奇艺术频道.png">|MezzoLive|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/MezzoLive.png">|
 |电影原声台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/电影原声台.png">|古典音乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/古典音乐台.png">|
