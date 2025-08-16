@@ -5,7 +5,7 @@
 |梅迪奇艺术频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/梅迪奇艺术频道.png">|MezzoLive|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/MezzoLive.png">|
 |电影原声台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/电影原声台.png">|古典音乐台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/古典音乐台.png">|
 |SBN全球财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/SBN全球财经台.png">|EFTV运通财经台|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/EFTV运通财经台.png">|
-|Z频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Z频道.png">|滚动力rollor|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/滚动力rollor.png">|
+|Z频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Z.png">|滚动力rollor|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/滚动力rollor.png">|
 |GINX电子体育|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/GINX电子体育.png">|Baby TV|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BabyTV.png">|
 |Baby First|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/BabyFirst.png">|Boomerang|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Boomerang.png">|
 |Nick|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Nick.png">|Nickelodeon|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/台湾/Nickelodeon.png">|
