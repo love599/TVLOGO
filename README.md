@@ -5,7 +5,7 @@
 > 
 【[央视](./md/央视.md)】  【[卫视](./md/卫视.md)】   
 
-【[数字频道](./md/DIG.md)】  【[港澳地区](./md/港澳.md)】  【[台湾地区](./md/台湾.md)】 
+【[数字频道](./md/数字.md)】  【[港澳地区](./md/港澳.md)】  【[台湾地区](./md/台湾.md)】 
 
 【[DOX系列](./md/DOX.md)】  【[iHOT系列](./md/IHOT.md)】  【[NewTV系列](./md/NEW.md)】  【[CIBN系列](./md/CIBN.md)】
 
