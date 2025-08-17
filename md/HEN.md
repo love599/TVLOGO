@@ -15,7 +15,7 @@
 |:---|:---:|:---|:---:|
 |郑州新闻综合|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州新闻综合.png" width="300" height="180">|郑州都市生活|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州都市生活.png" width="300" height="180">|
 |郑州影视戏曲|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州影视戏曲.png" width="300" height="180">|郑州文体旅游|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州文体旅游.png" width="300" height="180">|
-|郑州妇女儿童|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/郑州妇女儿童.png" width="300" height="180">|郑州教育电视台|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州教育电视台.png" width="300" height="180">|
+|郑州妇女儿童|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州妇女儿童.png" width="300" height="180">|郑州教育电视台|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州教育电视台.png" width="300" height="180">|
 |郑州商都|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑州商都.png" width="300" height="180">|郑铁TV|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑铁TV.png" width="300" height="180">|
 |郑铁TV|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/郑铁TV.png" width="300" height="180">|洛阳新闻综合|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/洛阳新闻综合.png" width="300" height="180">|
 |洛阳文旅|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/洛阳文旅.png" width="300" height="180">|洛阳科教|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/河南/洛阳科教.png" width="300" height="180">|
