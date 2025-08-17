@@ -52,7 +52,7 @@
 |3D试验频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/3D试验频道.png">|长影频道|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/长影频道.png">|
 |证券服务|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/证券服务.png">|睛彩竞技|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/睛彩竞技.png">|
 |睛彩篮球|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/睛彩篮球.png">|睛彩青少|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/睛彩青少.png">|
-|睛彩广场舞|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/睛彩广场舞.png">|
+|睛彩广场舞|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/睛彩广场舞.png">|哒啵赛事|<img src="https://raw.githubusercontent.com/love599/TVlogo/main/logo/数字/哒啵赛事.png">|
 
 
 
